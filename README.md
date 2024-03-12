@@ -13,7 +13,7 @@
 Bu platform, kod yazmadan veri analizi ve makine öğrenimi algoritmalarını uygulamak isteyenler için tasarlanmıştır.
 Başlangıç seviyesindeki kullanıcılar için hazırlanmış olan bu platform, veri ön işleme adımları yapılmış veya basit veri setleri üzerinde yapılan işlemleri kapsar. 
 
-**Link:** [Veri Analizi ve Makine Öğrenimi Platformu](#)
+**Link:** [Veri Analizi ve Makine Öğrenimi Platformu](https://data-analysis-and-ml-with-app-kc9g7vgbyuh7cizgb6trvc.streamlit.app/)
 
 ## Nasıl Kullanılır
 
@@ -30,7 +30,7 @@ This platform is designed for those who want to apply data analysis and machine 
 This platform, which is prepared for beginner users, covers operations performed on data pre-processing steps or simple data sets. 
 
 
-**Link:** [Data Analysis and Machine Learning Platform](#)
+**Link:** [Data Analysis and Machine Learning Platform](https://data-analysis-and-ml-with-app-kc9g7vgbyuh7cizgb6trvc.streamlit.app/)
 
 ## How to Use
 
